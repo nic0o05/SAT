@@ -1,0 +1,1 @@
+BIENVENIDOS Este es el repositorio que los estudiantes del Liceo Tomas Berreta usaremos en el proceso de creacion de nuestro proyecto, proyecto el cual se trata de la creacion de una estacion meteorologica la cual mas tarde convertiremos en un SAT ( Sistema de Alerta Temprana ).
